@@ -1,0 +1,114 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Hiking",
+      "description": "Explore nature on a hiking trail.",
+      "category": "Outdoor",
+      "location": "Anywhere",
+      "cost": 0.00,
+      "duration": 2,
+      "kids-proof": true
+      "imageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Kinderryck",
+      "description": "Indoor fun palace for kids to enjoy and parents to endure",
+      "category": "Indoor",
+      "location": "Bilzen",
+      "cost": 12.50,
+      "duration": 3,
+      "kids-proof": true
+      "imageURL": "https://1.bp.blogspot.com/-bgG4HlQlrc0/XrJ2lCub-sI/AAAAAAAAAh4/VD74m2dl4YI8Yb8dORacuR1TcKVNF_9XgCLcBGAsYHQ/s640/Sfeerbeelden%25281%2529.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bowling",
+      "description": "Show your inner Big Lebowski a knock over some pins",
+      "category": "Indoor",
+      "location": "A bowling ally",
+      "cost": 10,
+      "duration": 2,
+      "kids-proof": true
+      "imageURL": "https://www.shutterstock.com/image-vector/red-bowling-ball-crashing-into-600nw-2122768598.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Daalhoeve",
+      "description": "A fun and small petting zoo with playgrounds and terrace",
+      "category": "Outdoor",
+      "location": "Maastricht",
+      "cost": 0,
+      "duration": 3,
+      "kids-proof": true
+      "imageURL": "https://assets-global.website-files.com/61fae873ec4bbdfbef13562a/620f919bdca7957f7ab0ec85_Schermafbeelding%202022-02-18%20om%2013.31.13.png"
+    },
+    {
+      "id": 5,
+      "name": "Billiard",
+      "description": "Don't pot the black 8-ball",
+      "category": "Indoor",
+      "location": "Any pool hall",
+      "cost": 10,
+      "duration": 2,
+      "kids-proof": false
+      "imageURL": "https://media.istockphoto.com/id/509796074/photo/billiard-balls-in-a-green-pool-table.jpg?s=612x612&w=0&k=20&c=sZFtXBwe_Zc7mf3fKEhucPmT7v2UCAaYUWUe36No36M="
+    },
+    {
+      "id": 6,
+      "name": "Hiking",
+      "description": "Explore nature on a hiking trail.",
+      "category": "Outdoor",
+      "location": "Outdoor",
+      "cost": "Outdoor",
+      "duration": "Outdoor",
+      "kids-proof": true
+      "imageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "name": "Hiking",
+      "description": "Explore nature on a hiking trail.",
+      "category": "Outdoor",
+      "location": "Outdoor",
+      "cost": "Outdoor",
+      "duration": "Outdoor",
+      "kids-proof": true
+      "imageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "name": "Hiking",
+      "description": "Explore nature on a hiking trail.",
+      "category": "Outdoor",
+      "location": "Outdoor",
+      "cost": "Outdoor",
+      "duration": "Outdoor",
+      "kids-proof": true
+      "imageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 9,
+      "name": "Hiking",
+      "description": "Explore nature on a hiking trail.",
+      "category": "Outdoor",
+      "location": "Outdoor",
+      "cost": "Outdoor",
+      "duration": "Outdoor",
+      "kids-proof": true
+      "imageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 10,
+      "name": "Hiking",
+      "description": "Explore nature on a hiking trail.",
+      "category": "Outdoor",
+      "location": "Outdoor",
+      "cost": "Outdoor",
+      "duration": "Outdoor",
+      "kids-proof": true
+      "imageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+  ]
+}

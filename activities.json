@@ -6,7 +6,7 @@
             "description": "Explore nature on a hiking trail.",
             "category": "Outdoor",
             "activityLocation": "Anywhere",
-            "cost": 0,
+            "cost": 0.0,
             "duration": 2,
             "kidsProof": true,
             "ImageURL": "background-Niel"
@@ -28,7 +28,7 @@
             "description": "Show your inner Big Lebowski a knock over some pins",
             "category": "Indoor",
             "activityLocation": "A bowling ally",
-            "cost": 10,
+            "cost": 10.0,
             "duration": 2,
             "kidsProof": true,
             "ImageURL": "https://www.shutterstock.com/image-vector/red-bowling-ball-crashing-into-600nw-2122768598.jpg"
@@ -39,7 +39,7 @@
             "description": "A fun and small petting zoo with playgrounds and terrace",
             "category": "Outdoor",
             "activityLocation": "Maastricht",
-            "cost": 0,
+            "cost": 0.0,
             "duration": 3,
             "kidsProof": true,
             "ImageURL": "https://assets-global.website-files.com/61fae873ec4bbdfbef13562a/620f919bdca7957f7ab0ec85_Schermafbeelding%202022-02-18%20om%2013.31.13.png"
@@ -50,7 +50,7 @@
             "description": "Don't pot the black 8-ball",
             "category": "Indoor",
             "activityLocation": "Any pool hall",
-            "cost": 10,
+            "cost": 10.0,
             "duration": 2,
             "kidsProof": false,
             "ImageURL": "https://media.istockphoto.com/id/509796074/photo/billiard-balls-in-a-green-pool-table.jpg?s=612x612&w=0&k=20&c=sZFtXBwe_Zc7mf3fKEhucPmT7v2UCAaYUWUe36No36M="
@@ -61,8 +61,8 @@
             "description": "Explore nature on a hiking trail.",
             "category": "Outdoor",
             "activityLocation": "Outdoor",
-            "cost": "Outdoor",
-            "duration": "Outdoor",
+            "cost": 0.0,
+            "duration": 1,
             "kidsProof": true,
             "ImageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
@@ -72,8 +72,8 @@
             "description": "Explore nature on a hiking trail.",
             "category": "Outdoor",
             "activityLocation": "Outdoor",
-            "cost": "Outdoor",
-            "duration": "Outdoor",
+            "cost": 0.0,
+            "duration": 1,
             "kidsProof": true,
             "ImageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
@@ -83,8 +83,8 @@
             "description": "Explore nature on a hiking trail.",
             "category": "Outdoor",
             "activityLocation": "Outdoor",
-            "cost": "Outdoor",
-            "duration": "Outdoor",
+            "cost": 0.0,
+            "duration": 1,
             "kidsProof": true,
             "ImageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
@@ -94,8 +94,8 @@
             "description": "Explore nature on a hiking trail.",
             "category": "Outdoor",
             "activityLocation": "Outdoor",
-            "cost": "Outdoor",
-            "duration": "Outdoor",
+            "cost": 0.0,
+            "duration": 1,
             "kidsProof": true,
             "ImageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         },
@@ -105,8 +105,8 @@
             "description": "Explore nature on a hiking trail.",
             "category": "Outdoor",
             "activityLocation": "Outdoor",
-            "cost": "Outdoor",
-            "duration": "Outdoor",
+            "cost": 0.0,
+            "duration": 1,
             "kidsProof": true,
             "ImageURL": "https://images.unsplash.com/photo-1551632811-561732d1e306?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
